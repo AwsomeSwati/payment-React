@@ -1,0 +1,37 @@
+
+{
+
+"data1":[
+
+    {
+        "id":"0",
+        "date":"28/10/2020",
+ 
+         "logo"  : "https://www.iconpacks.net/icons/3/free-amazon-logo-icon-6202.png",
+         "heading":"Amazon Gift", 
+         "subheading":"Pay", 
+         "devices":"Desktop - Mobile",
+          "color":"Yellow",
+           "icon": "→"
+          
+
+    },
+
+    {
+        "id":"1",
+        "date":"17 Sept 2020",
+        
+         "logo"    : "https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png",
+         "heading":"Apple Gift", 
+         "subheading":"Payment", 
+         "devices":"MacOs - Mobile",
+          "color":"grey",
+
+          "icon": "→"
+
+          
+    }
+]
+
+}
+
